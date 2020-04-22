@@ -33,7 +33,7 @@ from sklearn.metrics import confusion_matrix
 #    l2.grid(column = 3,row=0)
 #    print(file_path)
 #    dataset = pd.read_csv(file_path)
-
+ 
 # function of radio button implementation    
 def sel():
     n = var1.get()
